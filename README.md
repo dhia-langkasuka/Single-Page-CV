@@ -1,2 +1,2 @@
-# Single-Page-CV
+# Project URL
 Frontend project 
